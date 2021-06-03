@@ -1,6 +1,6 @@
 # Hit Count UI
 
-This application is to view a Hits made on this page. It is a single page application built in Angular 9.
+This application is to view a Hits made on this page. It is a single page application built in Angular 12.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
