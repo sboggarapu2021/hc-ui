@@ -1,0 +1,11 @@
+<h2>Counter</h2>
+<div>
+
+  <p *ngIf="visits">
+    Total Hits Count:  {{visits?.value}}
+  </p>
+  <button (click)="hitClick()">
+    Hit
+  </button>
+
+</div>
